@@ -14,9 +14,9 @@ Patagonia API is a resource where users can learn about and extract information 
 - `python manage.py runserver`
 
 - How do you run tests?
-  - No tests yet
+  - python manage.py test
 - Any tests of note?
-  - No tests yet
+  - No 
 - Describe any tests that you did not complete, skipped, etc.
   - NA
 
